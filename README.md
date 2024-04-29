@@ -20,5 +20,4 @@ Using pandas library, latest version.
 
 I found a good number of narrowed down itemsets by using the values of 0.0008 confidence and support for itemsets of length 3 and 0.003 for itemsets of length 2.
 
-https://youtu.be/JykRRu4aa5M
 
